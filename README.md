@@ -8,7 +8,7 @@ The main goal of this project is to analyze sales transaction data from a McDona
 [File1](https://github.com/shubh-verma96/McDonald-s-Sales-Analysis/blob/main/Menu%20Items.xlsx)
 [File2](https://github.com/shubh-verma96/McDonald-s-Sales-Analysis/blob/main/Order%20Details.csv)
 
-##Key Questions (KPIs)
+## Key Questions (KPIs)
 
 What is the total sales revenue for each category of menu items?
 How many orders are placed each day?
@@ -20,7 +20,7 @@ How do order volumes vary by time of day?
 How do sales trends differ across weekdays and weekends?
 How do the top 5 menu items compare in terms of sales and revenue?
 
-##Process
+## Process
 
 1. Performed data cleaning to:
   a. Remove duplicate entries
